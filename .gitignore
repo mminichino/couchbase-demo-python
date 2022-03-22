@@ -1,0 +1,16 @@
+# ignore standard IntelliJ files
+.idea/
+*.iml
+*.ipr
+*.iws
+venv/
+
+# ignore standard Vim and Emacs temp files
+*.swp
+*~
+
+# ignore standard Mac OS X files/dirs
+.DS_Store
+
+# ignore senstive files
+democonstants.py
